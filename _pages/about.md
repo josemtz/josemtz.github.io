@@ -10,7 +10,7 @@ redirect_from:
 
 I'm an Associate Professor in the Multidisciplinary Academic Unit Reynosa Rodhe at the [Autonomous University of Tamaulipas](https://www.uat.edu.mx/SitePages/principal.aspx). 
 
-I was a Postdoctoral Researcher at the Center for Research and Advanced Studies of the National Polytechnic Institute, [Cinvestav Tamaulipas]https://www.tamps.cinvestav.mx), Mexico.
+I was a Postdoctoral Researcher at the Center for Research and Advanced Studies of the National Polytechnic Institute, [Cinvestav Tamaulipas](https://www.tamps.cinvestav.mx), Mexico.
 
 
 Interests
