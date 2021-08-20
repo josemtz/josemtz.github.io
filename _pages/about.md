@@ -12,6 +12,8 @@ I'm an Associate Professor in the Multidisciplinary Academic Unit Reynosa Rodhe 
 
 I was a Postdoctoral Researcher at the Center for Research and Advanced Studies of the National Polytechnic Institute, [Cinvestav Tamaulipas](https://www.tamps.cinvestav.mx), Mexico.
 
+My research interests involve the Semantic Web, Information Extraction, and Data Mining.
+
 
 Education
 ------
