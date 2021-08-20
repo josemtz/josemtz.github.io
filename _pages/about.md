@@ -15,12 +15,16 @@ I was a Postdoctoral Researcher at the Center for Research and Advanced Studies 
 
 Education
 ------
-For s
+1.
+2.
+3.
+
 
 
 Publications
+======
+Journal Articles
 ------
-###Journal Articles
 1. Jose L. Martinez-Rodriguez, Ivan Lopez-Arevalo and Ana Bertha Rios-Alvarado. <a href="/files/openIE.pdf">&quot;OpenIE-based approach for Knowledge Graph construction from text&quot;.<img src="/images/pdf.png" height="10"></a>  <i>Expert Systems with Applications </i>. Vol.113, No. 1, pp. 339-355, 2018. DOI: [10.1016/j.eswa.2018.07.017](https://doi.org/10.1016/j.eswa.2018.07.017).
 
 
